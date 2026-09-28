@@ -7,6 +7,12 @@ frame without a universal clock. Tests were observed red on missing code
 and green after implementing the module. Five named tests cover branching,
 coordinate/path separation, transitive explicit order, and invalid inputs.
 
+Public repository: https://github.com/TimeLordRaps/hypertime. Foundation
+commit `036bab2ce68c5b77fc49923981aef4c0e396cb8e` was pushed to `main`;
+GitHub reported `PUBLIC`, and the remote `main` ref matched that commit on
+2026-09-28. `python -u validate.py` ran 5 of 5 named tests successfully.
+This is bounded local code evidence, not a metaphysical or physical result.
+
 Current limitation: no physical duration, causality, travel, native ground,
 or actual universempiternality observation follows. The Hyperspace join is
 specified but not implemented. [TECHNICAL_DEBT.md](TECHNICAL_DEBT.md)
