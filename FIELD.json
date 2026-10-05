@@ -13,8 +13,15 @@
   "scope": "Finite order and branching among named reality presentations on an abstract hypertime display axis.",
   "exclusions": [
     "No universal clock, physical duration, causal creation, or time travel is established.",
-    "No chronology is assigned to atemporal sempiternity or universempiternity.",
+    "No chronology is assigned to the atemporal counterparts; sempiternity is stated to be unbounded in time (2026-10-05), no Hypertime ordering of its time is established, and the temporal sense of universempiternity is not stated.",
     "No native derivation or empirical grid observation is established."
   ],
-  "verifier_status": "NOT_CHECKED"
+  "verifier_status": "NOT_CHECKED",
+  "superseded_exclusions": [
+    {
+      "text": "No chronology is assigned to atemporal sempiternity or universempiternity.",
+      "superseded_on": "2026-10-05",
+      "by": "Tyler Roost's 2026-10-05 statement that sempiternity is unbounded in time; see PROVENANCE.md"
+    }
+  ]
 }

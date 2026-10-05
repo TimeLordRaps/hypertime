@@ -31,15 +31,30 @@ vertical placement is weaker than an actual relation among realities.
 
 ## Relation to other time and reality senses
 
-User-stated base-reality has internal temporal life; sempiternity and
-universempiternity were described as atemporal. A Hypertime index here
-orders a **presentation of relations among base-realities**, not moments
-inside one base-reality or moments of an atemporal whole. [OPEN] Whether
+User-stated base-reality has internal temporal life. On 2026-10-05 Tyler
+stated that sempiternity is unbounded in time, and that preality,
+surreality and base-reality each have atemporal counterparts
+([PROVENANCE.md](PROVENANCE.md)). A Hypertime index here orders a
+**presentation of relations among base-realities**, not moments inside one
+base-reality. This field makes no claim about moments of a sempiternity's
+unbounded time. For universempiternity the temporal sense is not stated
+[OPEN]. [OPEN] Whether
 this display axis can be interpreted as branching order, relative
 construction order, observer chronology, another order, or no intrinsic
 order at all requires a native rule and an observation contract. If the
 axis turns out to be only a drawing coordinate, its name must not be used
 to smuggle in a clock.
+
+[SUPERSEDED 2026-10-05, kept visible.] Until the 2026-10-05 statement this
+section read: “User-stated base-reality has internal temporal life;
+sempiternity and universempiternity were described as atemporal. A
+Hypertime index here orders a **presentation of relations among
+base-realities**, not moments inside one base-reality or moments of an
+atemporal whole.” (Spelling as at the naming commit `7a262e3`.) The
+atemporal wording for sempiternity is superseded by Tyler's resolution that
+sempiternity is unbounded in time. It applies, at most, to the atemporal
+counterparts he named. It is not carried over to universempiternity, for
+which he did not say.
 
 Tyler's statement “Realities are that which are observable” belongs to the
 new joint research frame. Hyperspace tests declared channels and bound
