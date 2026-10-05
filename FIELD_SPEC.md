@@ -1,6 +1,6 @@
 # Hypertime: order and branching without an outside clock
 
-**Status, 2026-09-28.** [HYPER] Tyler Roost describes universempiternality
+**Status, 2026-09-28.** [HYPER] Tyler Roost describes universempiternity
 as appearing to contain base realities like **hyperpheres** on an apparent
 two-dimensional grid, with Hyperspace and Hypertime as guessed axes. This
 repository investigates the second axis. “Appearing” is preserved: no
@@ -31,8 +31,8 @@ vertical placement is weaker than an actual relation among realities.
 
 ## Relation to other time and reality senses
 
-User-stated base-reality has internal temporal life; sempiternality and
-universempiternality were described as atemporal. A Hypertime index here
+User-stated base-reality has internal temporal life; sempiternity and
+universempiternity were described as atemporal. A Hypertime index here
 orders a **presentation of relations among base-realities**, not moments
 inside one base-reality or moments of an atemporal whole. [OPEN] Whether
 this display axis can be interpreted as branching order, relative

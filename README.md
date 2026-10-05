@@ -3,7 +3,7 @@
 **Where reality branches can be ordered without borrowing a clock from
 outside them.** Hypertime studies declared order and branching among
 reality presentations. It is the second proposed display axis in Tyler Roost
-/ The TimeLord's view of universempiternality as base realities arranged
+/ The TimeLord's view of universempiternity as base realities arranged
 like **hyperpheres** in an apparent grid. This is [HYPER], not an observed
 cosmic map or a universal time coordinate.
 

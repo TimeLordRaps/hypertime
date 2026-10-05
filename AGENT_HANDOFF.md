@@ -14,7 +14,7 @@ GitHub reported `PUBLIC`, and the remote `main` ref matched that commit on
 This is bounded local code evidence, not a metaphysical or physical result.
 
 Current limitation: no physical duration, causality, travel, native ground,
-or actual universempiternality observation follows. The Hyperspace join is
+or actual universempiternity observation follows. The Hyperspace join is
 specified but not implemented. [TECHNICAL_DEBT.md](TECHNICAL_DEBT.md)
 records the next checks. Exact next action after publication: test a pinned
 identity-preserving grid join, then ask what independent observation could
